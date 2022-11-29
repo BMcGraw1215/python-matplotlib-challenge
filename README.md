@@ -1,2 +1,2 @@
 # python-matplotlib-challenge
- Matplotlib assignment
+ Matplotlib assignment located in assignment folder.
